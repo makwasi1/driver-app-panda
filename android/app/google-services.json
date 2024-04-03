@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "619740870481",
+    "firebase_url": "https://momocard-e107f-default-rtdb.firebaseio.com",
+    "project_id": "momocard-e107f",
+    "storage_bucket": "momocard-e107f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619740870481:android:1391703cba6a9d64900570",
+        "android_client_info": {
+          "package_name": "com.bonna.pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619740870481-h7olnvh5vvrj1a0auf0prcl7oul0od71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3sxot031nD2BokwSeUD4kNdmm6Nkp9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619740870481-68tt322seaocbj5b5sis69ntidrrkt22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619740870481-59gnq4qd13ou328vhafet09ibmc82v7k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bonna.pay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619740870481:android:c1720fb715d338a0900570",
+        "android_client_info": {
+          "package_name": "com.giant_panda.transport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619740870481-h7olnvh5vvrj1a0auf0prcl7oul0od71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3sxot031nD2BokwSeUD4kNdmm6Nkp9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619740870481-68tt322seaocbj5b5sis69ntidrrkt22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619740870481-59gnq4qd13ou328vhafet09ibmc82v7k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bonna.pay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619740870481:android:8aeed5b848255834900570",
+        "android_client_info": {
+          "package_name": "com.transport_zabure.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619740870481-hhpsoa4ni1sb9abagusj81e2v9636a49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transport_zabure.school",
+            "certificate_hash": "31442b59aa708d92ea5435907815131870580cff"
+          }
+        },
+        {
+          "client_id": "619740870481-kcuh2iq1nlafpp4j2m4sr8g3l6d568uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transport_zabure.school",
+            "certificate_hash": "a7bae321399fbaacda33d4ddbc337d7742db57f7"
+          }
+        },
+        {
+          "client_id": "619740870481-h7olnvh5vvrj1a0auf0prcl7oul0od71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3sxot031nD2BokwSeUD4kNdmm6Nkp9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619740870481-68tt322seaocbj5b5sis69ntidrrkt22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619740870481-59gnq4qd13ou328vhafet09ibmc82v7k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bonna.pay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
